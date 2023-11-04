@@ -8,5 +8,7 @@ print(example)
 # Lets check if we want to return one value, so it is a dictionary
 dictionary={'Name':'Alon',
             'Roll No':'1234',
-            'place':'United arab emirates'}
+            'Father name':'Aby Jacob'}
 print(dictionary['Name'],type(dictionary))
+
+
