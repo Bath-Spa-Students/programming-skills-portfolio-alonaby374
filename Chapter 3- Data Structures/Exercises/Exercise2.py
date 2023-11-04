@@ -1,10 +1,10 @@
 names = ['Akku', 'Nizam', 'Jafar']
 
-a = f"Hello, {names[0]}!"
+a = f"Hey, {names[0]}!"
 print(a)
 
-a = f"Hello, {names[1]}!"
+a = f"Hey, {names[1]}!"
 print(a)
 
-a = f"Hello, {names[2]}!"
+a = f"Hey, {names[2]}!"
 print(a)
